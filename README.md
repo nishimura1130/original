@@ -1,25 +1,58 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 実行手順
+$ git clone https://github.com/tatsuhiko0123/DIC_nekonowa.git 
+$ cd original
+$ bundle install
+$ rails db:create && rails db:migrate
+$ rails s
 
-Things you may want to cover:
+# タイトル
+ジムニー
 
-* Ruby version
+ 
+# コンセプト
+ 
+筋トレを始めたばかりの方がトレーニングが楽しくなること。
+ 
+# 開発言語
+ 
+ruby2.6.5
+rails 5.2.5
+postgresql 13.2
+ 
+# 機能一覧
 
-* System dependencies
+ユーザー登録機能
+ログイン機能
+ゲストログイン機能
+CRUD機能
+お気に入り機能
+メッセージ機能
+GoogleMapAPI
+ページネーション機能
+ 
+# 就業turmの技術
+ 
+お気に入り機能
+メッセージ機能
 
-* Configuration
+# カリキュラム以外の技術
+ 
+GoogleMAP API
+ 
+# カタログ設計
+ 
+https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvhcnA/edit#gid=2033588603
+ 
+# table定義
 
-* Database creation
+https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvhcnA/edit#gid=2033588603
+ 
 
-* Database initialization
+ 
+# ワイヤーフレーム
+https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvhcnA/edit#gid=2033588603
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # original
+       
