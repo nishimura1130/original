@@ -1,4 +1,5 @@
 # README
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 # 実行手順
 $ git clone https://github.com/tatsuhiko0123/DIC_nekonowa.git 
