@@ -3,10 +3,10 @@
 
 # 実行手順
 $ git clone https://github.com/tatsuhiko0123/DIC_nekonowa.git 
-$ cd original
-$ bundle install
-$ rails db:create && rails db:migrate
-$ rails s
+$ cd original  
+$ bundle install  
+$ rails db:create && rails db:migrate  
+$ rails s  
 
 # タイトル
 ジムニー
