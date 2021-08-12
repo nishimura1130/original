@@ -1,5 +1,5 @@
 # README
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
 
 # 実行手順
 $ git clone https://github.com/tatsuhiko0123/DIC_nekonowa.git 
@@ -18,25 +18,24 @@ $ rails s
  
 # 開発言語
  
-ruby2.6.5
-rails 5.2.5
-postgresql 13.2
+ruby2.6.5  
+rails 5.2.5  
+postgresql 13.2  
  
 # 機能一覧
 
-ユーザー登録機能
-ログイン機能
-ゲストログイン機能
-CRUD機能
-お気に入り機能
-メッセージ機能
-GoogleMapAPI
-ページネーション機能
+ユーザー登録機能  
+ログイン機能  
+ゲストログイン機能  
+CRUD機能  
+お気に入り機能  
+メッセージ機能  
+GoogleMapAPI  
  
 # 就業turmの技術
  
-お気に入り機能
-メッセージ機能
+お気に入り機能  
+メッセージ機能  
 
 # カリキュラム以外の技術
  
