@@ -56,5 +56,7 @@ https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvh
 
 # original
 ![DA7CEC85-5377-4609-9BD7-5877BE5A714C](https://user-images.githubusercontent.com/77220182/129297038-0837ccbd-8a53-43a1-9a09-cd8b757b77cb.jpeg)
-![1AED17C9-E047-4222-B64D-904817728EEF](https://user-images.githubusercontent.com/77220182/129297048-8d21b741-2f20-4c1c-9146-bfad56ff0e6d.jpeg)
+
+![D8809E88-9B19-42B1-B1A4-CF1307915D25](https://user-images.githubusercontent.com/77220182/129386498-9cb3a568-fd80-41e3-b386-c5042ceef0ac.jpeg)
+
 
