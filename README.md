@@ -55,5 +55,6 @@ https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvh
 https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvhcnA/edit#gid=2033588603
 
 # original
-![2021-08-11 11 36のイメージ](https://user-images.githubusercontent.com/77220182/128961964-c41ee30d-bcf3-4488-86c5-8c9389b5cec4.jpeg)
-![2021-08-11 11 37のイメージ](https://user-images.githubusercontent.com/77220182/128961969-582ec4ea-0811-4852-af48-f3a5a1b1016d.jpeg)
+![DA7CEC85-5377-4609-9BD7-5877BE5A714C](https://user-images.githubusercontent.com/77220182/129297038-0837ccbd-8a53-43a1-9a09-cd8b757b77cb.jpeg)
+![1AED17C9-E047-4222-B64D-904817728EEF](https://user-images.githubusercontent.com/77220182/129297048-8d21b741-2f20-4c1c-9146-bfad56ff0e6d.jpeg)
+
