@@ -30,7 +30,6 @@ postgresql 13.2
 CRUD機能  
 お気に入り機能  
 メッセージ機能  
-GoogleMapAPI  
  
 # 就業turmの技術
  
@@ -39,7 +38,7 @@ GoogleMapAPI
 
 # カリキュラム以外の技術
  
-GoogleMAP API
+active_storage
  
 # カタログ設計
  
