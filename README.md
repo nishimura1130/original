@@ -54,6 +54,7 @@ https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvh
 https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvhcnA/edit#gid=2033588603
 
 # original
-![69C883FD-DCC8-4ECC-9D25-76A91D162A36](https://user-images.githubusercontent.com/77220182/129664135-fa05d278-424f-47bc-af95-525b9d779cce.jpeg)
-![77275C64-D2F6-4778-ACE8-41926FE28D26](https://user-images.githubusercontent.com/77220182/129664137-02e9de1f-c503-40ec-9fe5-df8451b6f29c.jpeg)
+![46C43128-5B0A-45DD-A5F4-FD45D860BF7C_1_105_c](https://user-images.githubusercontent.com/77220182/129703196-5ca0acbd-aeb7-4c24-a397-74ccfe4367fb.jpeg)
+![293FDE0E-86C3-4302-9661-FD50C1C834F5](https://user-images.githubusercontent.com/77220182/129703219-5ce318d1-9c02-4209-873b-f0f75f15682a.jpeg)
+
 
