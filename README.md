@@ -2,7 +2,7 @@
 
 
 # 実行手順
-$ git clone https://github.com/tatsuhiko0123/DIC_nekonowa.git 
+$ git clone https://github.com/nishimura1130/original.git
 $ cd original  
 $ bundle install  
 $ rails db:create && rails db:migrate  
